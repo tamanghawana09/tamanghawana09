@@ -28,3 +28,7 @@ https://www.cplusplus.com/reference/ios/noskipws/
 
 cin.ignore function use
 https://www.tutorialspoint.com/what-is-the-use-of-cin-ignore-in-cplusplus
+
+reading and writing objects into file
+https://www.includehelp.com/cpp-programs/write-read-object-in-file.aspx
+https://www.geeksforgeeks.org/readwrite-class-objects-fromto-file-c/
