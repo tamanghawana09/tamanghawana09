@@ -32,3 +32,6 @@ https://www.tutorialspoint.com/what-is-the-use-of-cin-ignore-in-cplusplus
 reading and writing objects into file
 https://www.includehelp.com/cpp-programs/write-read-object-in-file.aspx
 https://www.geeksforgeeks.org/readwrite-class-objects-fromto-file-c/
+
+-seekp
+https://www.geeksforgeeks.org/set-position-with-seekg-in-cpp-language-file-handling/
