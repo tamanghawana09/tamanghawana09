@@ -1,4 +1,4 @@
-<img src ="Coding mODE.jpg" height="300" width="1600" alt="coding mode">
+<img src ="LEARNING MODE.png" height="300" width="1600" alt="coding mode">
 
 ### Hi there 👋
 - 🔭 I’m currently working on ** Myself **
