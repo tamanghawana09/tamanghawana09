@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/free-vector/teenager-boy-bedroom-interior-computers-desk_107791-2737.jpg?w=996&t=st=1661248062~exp=1661248662~hmac=116b70568fd9de4180b1b299f444b7c41271e11fd5ea65ec94a059ef0477f5df)
+![MasterHead]<img src ="Coding mODE.jpg" alt="coding mode">
 ### Hi there 👋
 - 🔭 I’m currently working on ** Myself **
 - 🌱 I’m currently learning ** JAVA ***
@@ -7,8 +7,8 @@
 - 😄 Pronouns ** I , Me ,Mine **
 - ⚡ Fun fact **If you learn then you earn **
 -->
-<img align ="right" alt ="Coding" width ="400" src ="https://res.cloudinary.com/teepublic/image/private/s---zcRiBbo--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_484849,e_outline:48/co_484849,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1585135206/production/designs/8667665_0.jpg">
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<img align ="right" alt ="Coding" width ="350" src ="https://res.cloudinary.com/teepublic/image/private/s---zcRiBbo--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_484849,e_outline:48/co_484849,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1585135206/production/designs/8667665_0.jpg">
+<h3 align="center">A passionate code learner from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamanghawana0107&label=Profile%20views&color=0e75b6&style=flat" alt="tamanghawana0107" /> </p>
 
