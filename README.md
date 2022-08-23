@@ -1,10 +1,4 @@
 ### Hi there 👋
-
-<!--
-**tamanghawana0107/tamanghawana0107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning to grow
 - 💬 What makes me go on :Unalome 
@@ -12,3 +6,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: I , Me ,Mine
 - ⚡ Fun fact: Just learn and earn
 -->
+<!--
+**tamanghawana0107/tamanghawana0107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
