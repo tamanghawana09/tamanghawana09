@@ -1,5 +1,5 @@
 <img src ="R.jpg" height="300" width="1600" alt="coding mode">
-<h3 align="center">A passionate code learner from Nepal</h3>
+<h1 align="center">A passionate code learner from Nepal </h1>
 
 ### Hi there 👋
 - 🔭 I’m currently working on ** Myself **
