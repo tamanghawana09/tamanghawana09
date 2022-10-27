@@ -1,7 +1,7 @@
 <img src ="R.jpg" height="300" width="1600" alt="coding mode">
 <h1 align="center">A beginner coder from Nepal </h1>
 
-### Hey hawana here 👋
+### Hey hawana here ✌
 ```py
 '''
 - 🔭 I’m currently working on ** Myself **
