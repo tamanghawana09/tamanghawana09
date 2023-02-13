@@ -5,7 +5,7 @@
 ```py
 '''
 - 🔭 I’m currently working on ** Myself **
-- 🌱 I’m currently learning ** C# **
+- 🌱 I’m currently learning ** C# & Java **
 - 💬 Never leave ** Unalome ** 
 - 📫 How to reach me ** hawanatamang@gmail.com **
 - 😄 Pronouns ** I , Me , Mine **
