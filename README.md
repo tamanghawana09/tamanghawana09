@@ -1,5 +1,5 @@
 [![@tamanghawana0815's Holopin board](https://holopin.me/tamanghawana0815)](https://holopin.io/@tamanghawana0815)
-<h1 align="center">A beginner coder from Nepal..... </h1>
+
 
 ### Hey hawana here ✌
 ```py
