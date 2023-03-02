@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning ** C# & Java **
 - 💬 Never leave ** Unalome ** 
 - 📫 How to reach me ** hawanatamang@gmail.com **
-- 😄 Pronouns ** I , Me , Mine **
+- 😄 Priority ** I , Me , Mine **
 - ⚡ Fun fact ** If you learn then you earn **
 - 🥶 Thought of the year ** fake it until you make it **
 '''
