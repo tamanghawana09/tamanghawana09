@@ -34,7 +34,7 @@
 
 
   
-![@tamanghawana's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamanghawana0815&count_private=true&show_icons=true&theme=dracula)
+![@tamanghawana09's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamanghawana09&count_private=true&show_icons=true&theme=dracula)
 
 
-[![@tamanghawana0815's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamanghawana0815&langs_count=8&theme=dracula)](https://github.com/tamanghawana0815/github-readme-stats)
+[![@tamanghawana09's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamanghawana09&langs_count=8&theme=dracula)](https://github.com/tamanghawana09/github-readme-stats)
