@@ -37,7 +37,5 @@
 ![@tamanghawana09's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamanghawana09&count_private=true&show_icons=true&theme=dracula)
 
 
-[![@tamanghawana09's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamanghawana09&langs_count=8&theme=dracula)](https://github.com/tamanghawana09/github-readme-stats)
-
-<p><img align="=center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamanghawana09&show_icons=true&locale=en&layout=compact" alt="tamanghawana09" /></p>
+<p><img align="=center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamanghawana09&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dracula" alt="tamanghawana09" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamanghawana09&show_icons=true&locale=en" alt="tamanghawana09 /></p>
