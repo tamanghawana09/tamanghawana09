@@ -33,9 +33,12 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a></p>
 
 
-  
-![@tamanghawana09's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamanghawana09&count_private=true&show_icons=true&theme=dracula)
+ 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamanghawana09&show_icons=true&locale=en&layout=compact&theme=dracula" alt="tamanghawana09" /></p>
 
 
-<p><img align="=center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamanghawana09&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dracula" alt="tamanghawana09" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamanghawana09&show_icons=true&locale=en" alt="tamanghawana09 /></p>
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=tamanghawana09&show_icons=true&&count_private=true&locale=en&theme=dracula" alt="tamanghawana09" /></p>
