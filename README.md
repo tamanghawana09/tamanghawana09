@@ -14,9 +14,7 @@
 - 👊 Life lesson ** My life my rules **
 '''
 ```
-
 -->
-
 <img align ="right" alt ="Coding" width ="295" src ="https://res.cloudinary.com/teepublic/image/private/s---zcRiBbo--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_484849,e_outline:48/co_484849,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1585135206/production/designs/8667665_0.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamanghawana0815&label=Profile%20views&color=0e75b6&style=flat" alt="tamanghawana0815" /> </p>
 
@@ -33,12 +31,8 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a></p>
 
 
- 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamanghawana09&show_icons=true&locale=en&layout=compact&theme=dracula" alt="tamanghawana09" /></p>
 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tamanghawana09&show_icons=true&locale=en&theme=dracula" alt="tamanghawana09" /></p>
 
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=tamanghawana09&show_icons=true&&count_private=true&locale=en&theme=dracula" alt="tamanghawana09" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tamanghawana09&theme=dracula" alt="tamanghawana09" /></p>
