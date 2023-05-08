@@ -35,4 +35,3 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tamanghawana09&show_icons=true&locale=en&theme=dracula" alt="tamanghawana09" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tamanghawana09&theme=dracula" alt="tamanghawana09" /></p>
