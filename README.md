@@ -1,4 +1,3 @@
-![](https://github-profile-trophy.vercel.app/?username=tamanghawana09&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 [![@tamanghawana0815's Holopin board](https://holopin.me/tamanghawana0815)](https://holopin.io/@tamanghawana0815)
 
