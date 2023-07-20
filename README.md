@@ -32,3 +32,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamanghawana09&theme=radical&layout=compact)](https://github.com/tamaanghawana09/github-readme-stats)</br>
 ![](https://github-readme-stats.vercel.app/api?username=tamanghawana09&theme=radical&hide_border=false&show_icons=true&include_all_commits=false&count_private=false)
+
+<hr>
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31xncutsjftde6tov3a45cja7t3q?si=2eb0165bdaa14cd2)
+
+
+<hr>
