@@ -41,5 +41,5 @@
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nax2rzx9x1bbpszy2ee17fg2o&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nax2rzx9x1bbpszy2ee17fg2o&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&)](https://github.com/kittinan/spotify-github-profile)
 <hr>
