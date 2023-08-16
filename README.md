@@ -4,7 +4,7 @@
 ### Hey hawana here ✌
 
 - 🔭 I’m currently working on **Myself**
-- 🌱 I’m currently learning **C# & Java**
+- 🌱 I’m currently learning **JavaScript**
 - 💬 Never leave **Unalome** 
 - 📫 How to reach me **hawanatamang@gmail.com**
 - 😄 Priority **I, Me, Mine**
