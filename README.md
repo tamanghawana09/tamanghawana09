@@ -34,7 +34,7 @@
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamanghawana09&theme=radical&layout=compact)](https://github.com/tamaanghawana09/github-readme-stats)</br>
-![](https://github-readme-stats.vercel.app/api?username=tamanghawana09&theme=radical&hide_border=false&show_icons=true&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=tamanghawana09&theme=radical&hide_border=false&show_icons=true&include_all_commits=true&count_private=true)
 
 <hr>
 
